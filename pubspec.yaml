@@ -1,0 +1,17 @@
+name: kiilib_object
+description: Kii Library - object API
+author: fkm <fkm@mokelab.com>
+homepage: https://github.com/mokelab/KiiLib_Dart_Object
+repository: https://github.com/mokelab/KiiLib_Dart_Object
+
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: "^0.12.0+2"
+  kiilib_core: "^0.0.1+4"
+
+dev_dependencies:
+  test: "^1.5.1"
